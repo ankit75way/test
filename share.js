@@ -4,7 +4,7 @@
 // SHARE_POINT_TENANT_ID = '620fe631-7c33-4e0b-9020-7122c7c82899'
 // SHARE_POINT_SITE_ID = 'fcfa8496-89f6-49d2-9ae2-485cbf2cd6b9'
 // SHARE_POINT_DRIVE_ID = 'b!CbtYWrofwUGBJWnaJkNwoNrBLp_kC3RKklSXPwrdeP3yH8_qmH9xT5Y6RODPNfYI'
-// SHARE_POINT_FOLDER_PATH = 'https://metsolv.sharepoint.com/sites/MetSolv/Shared%20Documents/test'
+// SHARE_POINT_FOLDER_PdadsATH = 'https://metsolv.sharepoint.com/sites/MetSolv/Shared%20Documents/test'
 SHARE_POINT_CLIENT_ID = 'fcaaf52a-ff56-4379-ac5d-797bacb51d68'
 SHARE_POINT_CLIENT_SECRET = '1JeI+hMwOaVY0PJxC4TKFHU0rCpdMf6s0P5csgCv8W4='
 SHARE_POINT_TENANT_ID = '620fe631-7c33-4e0b-9020-7122c7c82899'

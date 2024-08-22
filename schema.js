@@ -7,7 +7,7 @@ const userSchema = mongoose.Schema({
     description:{
         type:String
     }
-})
+})cdsc
 userSchema.index({name:'text'})
 
 exports.User = mongoose.model('user',userSchema)
