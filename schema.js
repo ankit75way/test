@@ -6,7 +6,7 @@ const userSchema = mongoose.Schema({
     },
     description:{
         type:String
-    }
+    }cds
 })cdsc
 userSchema.index({name:'text'})
 
